@@ -38,3 +38,4 @@ jobs:
           plugin_languages_threshold: 1%
           plugin_languages_indepth: yes
           commits_authoring: leonpaletta, leon@users.noreply.github.com
+          plugin_languages_sections: recently-used
