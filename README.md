@@ -7,7 +7,7 @@
   </div>
   <!-- Right column -->
   <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-start; padding-left: 10px;">
-    <img src="/metrics.plugin.isocalendar.svg" alt="Half-year Calendar" style="width: 100%; max-width: 400px; margin-bottom: 10px;">
-    <img src="/metrics.plugin.languages.svg" alt="Languages" style="width: 100%; max-width: 400px;">
+    <img src="/metrics.plugin.isocalendar.svg" alt="Half-year Calendar" style="max-width: 400px; margin-bottom: 10px;">
+    <img src="/metrics.plugin.languages.svg" alt="Languages" style="max-width: 400px;">
   </div>
 </div>
