@@ -1,15 +1,13 @@
 ## Hi there, I am Leon 👋
 
-<table>
+<table border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <!-- Metrics on the left -->
     <td>
-      <img src="/github-metrics.svg" alt="Metrics" width="400">
+      <img src="/github-metrics.svg" alt="Metrics" width="500">
     </td>
-    <!-- Calendar and Languages stacked on the right -->
     <td>
-      <p><img src="/metrics.plugin.isocalendar.svg" alt="Half-year Calendar" width="400"></p>
-      <p><img src="/metrics.plugin.languages.svg" alt="Languages" width="400"></p>
+      <p><img src="/metrics.plugin.isocalendar.svg" alt="Half-year Calendar" width="500"></p>
+      <p><img src="/metrics.plugin.languages.svg" alt="Languages" width="500"></p>
     </td>
   </tr>
 </table>
