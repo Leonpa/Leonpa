@@ -1,7 +1,5 @@
 ## Hi there, I am Leon 👋
 
 <div align="center">
-  <a href="https://github.com/Leonpa">
-    <img src="https://github.com/Leonpa/Leonpa/blob/main/metrics.svg" alt="Metrics" />
-  </a>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 </div>
