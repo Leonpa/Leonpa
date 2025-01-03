@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am Leon 👋
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Leonpa&count_private=true&show_icons=true&theme=graywhite&custom_title=Leon%27s%20GitHub%20stats" />
+  </a>
+</div>
 
 <!--
 **Leonpa/Leonpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
