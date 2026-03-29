@@ -38,7 +38,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_threshold: 1%
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
       - name: Recent activity charts
         uses: lowlighter/metrics@latest
         with: 
@@ -48,7 +48,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: chartist
           plugin_habits_trim: yes
           plugin_habits_from: 1000
           plugin_habits_days: 30
