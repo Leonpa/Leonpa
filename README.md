@@ -1,6 +1,6 @@
 ## Hi there, I am Leon 👋
 
-<div style="display: flex">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start">
   <a href="#"><img style="margin-bottom: 10px;" width="390" alt="🦑" src="/github-metrics.svg"></a>
   <a href="#"><img style="margin-bottom: 10px;" width="390" alt="🦑" src="/metrics.plugin.isocalendar.svg"></a>
   <a href="#"><img style="margin-bottom: 10px;" width="390" alt="🦑" src="/metrics.plugin.lines.svg"></a>
